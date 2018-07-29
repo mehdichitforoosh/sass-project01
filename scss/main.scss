@@ -1,0 +1,22 @@
+$width : 100px;
+$badass: #bada55;
+$height:120px;
+$text-color:#a3458d;
+
+body { 
+  margin: 0; 
+  background-color: $badass; 
+}
+
+p {
+    width: $width;
+}
+
+button {
+    width: $width;
+    height: $height;
+}
+
+input {
+    text-decoration-color: $text-color;
+}
